@@ -14,11 +14,12 @@ Aplicação de modelos de detecção de fraude para  dados de cartão de crédit
 
 1. Importação dos dados
 2. Analise Exploratória 
-3. Identificar quais modelos serão testados
-4. Implementar modelos selecionados
-5. Comparar performance entre modelos
-6. Seleção de melhor modelo com aplicação
-7. Montar apresentação do projeto
-8. Gravar video de apresentação/ ou apresentar para os coordenadores
+3. Implementar modelo de Regressão
+4. Implementar modelo de Florestas aleatorias
+5. Implementar modelo de Redes Neurais
+6. Comparar performance entre modelos
+7. Seleção de melhor modelo com aplicação
+8. Montar apresentação do projeto
+9. Gravar video de apresentação/ ou apresentar para os coordenadores
 
 
