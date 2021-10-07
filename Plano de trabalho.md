@@ -22,4 +22,6 @@ Aplicação de modelos de detecção de fraude para  dados de cartão de crédit
 8. Montar apresentação do projeto
 9. Gravar video de apresentação/ ou apresentar para os coordenadores
 
+# link da publicação de inspiração 
 
+[Publicação parecida com o trablhao](https://towardsdatascience.com/protecting-your-money-detecting-credit-card-fraud-with-ml-dl-2c4a9b9a0779)
