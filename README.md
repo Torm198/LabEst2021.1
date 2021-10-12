@@ -11,7 +11,7 @@ Anna Eloyr Silveira Vilasboas -
 
 ## Assunto principal
 
-Aplicação de modelos de detecção de fraude para  dados de cartão de crédito.
+Aplicação de modelos estatisticos para prever o não pagamento do cartão de crédito.
 
 ## Tarefas
 
@@ -19,12 +19,9 @@ Aplicação de modelos de detecção de fraude para  dados de cartão de crédit
 2. Analise Exploratória
 3. Implementar modelo de Regressão
 4. Implementar modelo de Florestas aleatorias
-5. Implementar modelo de Redes Neurais
+5. Implementar Florestas aleatórias
 6. Comparar performance entre modelos
 7. Seleção de melhor modelo com aplicação
-8. Montar apresentação do projeto
+8. Montar apresentação do projeto/ relatório
 9. Gravar video de apresentação/ ou apresentar para os coordenadores
 
-## link da publicação de inspiração
-
-[Publicação parecida com o trabalho](https://towardsdatascience.com/protecting-your-money-detecting-credit-card-fraud-with-ml-dl-2c4a9b9a0779)
