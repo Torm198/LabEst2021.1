@@ -5,9 +5,9 @@
 
 Luiz Eduardo Oliveira Alvarenga - 14/0151931
 
-Gabriel Tormin Alves -
+Gabriel Tormin Alves - 17/0010813
 
-Anna Eloyr Silveira Vilasboas -
+Anna Eloyr Silveira Vilasboas - 17/0001989
 
 ## Assunto principal
 
